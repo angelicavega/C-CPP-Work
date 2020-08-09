@@ -1,4 +1,4 @@
-//This code is directly from Philipp Schrader & Tom Brown's work on Programming FRC Robots using C++
+//The following code contains samples directly for programming FRC Robots driven from C++ FRC Programming manual
 #include "WPILib.h"
 class RobotDemo : public SimpleRobot
 {
