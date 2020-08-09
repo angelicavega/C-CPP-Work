@@ -1,3 +1,4 @@
+//This code is directly from Philipp Schrader & Tom Brown's work on Programming FRC Robots using C++
 #include "WPILib.h"
 class RobotDemo : public SimpleRobot
 {
